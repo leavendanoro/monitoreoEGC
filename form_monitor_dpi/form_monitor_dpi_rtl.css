@@ -1,0 +1,69 @@
+.css_fecha_label { }
+.css_fecha_line { }
+.css_fecha_obj { }
+.css_id_cliente_label {text-align:left;vertical-align:middle;}
+.css_id_cliente_line {text-align:left;vertical-align:middle;}
+.css_id_cliente_obj {text-align:left;}
+.css_equipo_label { }
+.css_equipo_line { }
+.css_equipo_obj { }
+.css_modules_label { }
+.css_modules_line { }
+.css_modules_obj { }
+.css_drdl_label { }
+.css_drdl_line { }
+.css_drdl_obj { }
+.css_interface_label { }
+.css_interface_line { }
+.css_interface_obj { }
+.css_cpu_label { }
+.css_cpu_line {text-align:left;}
+.css_cpu_obj {text-align:left;}
+.css_memory_label { }
+.css_memory_line {text-align:left;}
+.css_memory_obj {text-align:left;}
+.css_bw_label { }
+.css_bw_line {text-align:left;}
+.css_bw_obj {text-align:left;}
+.css_disk_label { }
+.css_disk_line {text-align:left;}
+.css_disk_obj {text-align:left;}
+.css_storage_label { }
+.css_storage_line {text-align:left;}
+.css_storage_obj {text-align:left;}
+.css_hora_label { }
+.css_hora_line { }
+.css_hora_obj { }
+.css_alertas_label { }
+.css_alertas_line { }
+.css_alertas_obj { }
+.css_backup_label { }
+.css_backup_line { }
+.css_backup_obj { }
+.css_licencia_soft_label { }
+.css_licencia_soft_line { }
+.css_licencia_soft_obj { }
+.css_licencia_hard_label { }
+.css_licencia_hard_line { }
+.css_licencia_hard_obj { }
+.css_observaciones_label { }
+.css_observaciones_line { }
+.css_observaciones_obj { }
+.css_user_mon_label { }
+.css_user_mon_line { }
+.css_user_mon_obj { }
+.css_agente_label { }
+.css_agente_line { }
+.css_agente_obj { }
+.css_email_agente_label { }
+.css_email_agente_line { }
+.css_email_agente_obj { }
+.css_fw_label {text-align:left;vertical-align:middle;}
+.css_fw_line {text-align:left;vertical-align:middle;}
+.css_fw_obj {text-align:left;}
+.css_sl_label {text-align:left;}
+.css_sl_line {text-align:left;}
+.css_sl_obj {text-align:left;}
+.css_vacio_label { }
+.css_vacio_line { }
+.css_vacio_obj { }
